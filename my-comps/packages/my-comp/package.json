@@ -11,6 +11,7 @@
   "unpkg": "./dist/my-comp/my-comp.js",
   "files": [
     "dist/",
-    "loader/"
+    "loader/",
+    "hello-tsc/"
   ]
 }

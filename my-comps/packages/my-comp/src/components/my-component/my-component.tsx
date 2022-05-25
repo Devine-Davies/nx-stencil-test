@@ -1,6 +1,6 @@
 import { Component, Prop, h } from '@stencil/core';
 import { format } from '../../utils/utils';
-import { helloTsc } from "@my-comps/hello-tsc"
+import { helloTsc } from "../../../../hello-tsc"
 
 
 @Component({
